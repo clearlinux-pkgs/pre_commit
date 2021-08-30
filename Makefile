@@ -1,5 +1,5 @@
 PKG_NAME := pre_commit
-URL = https://files.pythonhosted.org/packages/44/16/2cbffd43ba19e972cbea241618926532c2047d4c71b677ddba9674f6fde6/pre_commit-2.14.0.tar.gz
+URL = https://files.pythonhosted.org/packages/f9/3e/14f27cbad8703a2bb3229bf94926582509c190d750afb3ac3d318551829b/pre_commit-2.14.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
