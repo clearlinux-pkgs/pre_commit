@@ -4,7 +4,7 @@
 #
 Name     : pre_commit
 Version  : 2.16.0
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/8e/e2/a5c93bd312072003117408cf87e2cb7dcf4992d28ce3cab9bc5eeabecf43/pre_commit-2.16.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8e/e2/a5c93bd312072003117408cf87e2cb7dcf4992d28ce3cab9bc5eeabecf43/pre_commit-2.16.0.tar.gz
 Summary  : A framework for managing and maintaining multi-language pre-commit hooks.
